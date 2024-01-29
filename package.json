@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "builds": [
-    { "src": "main.js", "use": "@vercel/static-build", "config": { "outputDirectory": "dist" } }
+    { "src": "main.js", "use": "@vercel/static-build", "config": { "outputDirectory": "public" } }
   ],
   "dependencies": {
     "react": "^18.2.0",
