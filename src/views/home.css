@@ -1,0 +1,22 @@
+.home-cont {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.intro {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    border: solid;
+    color: cornsilk;
+    background-color: transparent;
+    transition: background-color 0.3s; /* Add transition effect for background-color */
+
+}
+
+/* Add hover effect for .intro */
+.intro:hover {
+    background-color: #333; /* Change the color on hover */
+}

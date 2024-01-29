@@ -1,0 +1,17 @@
+.profile {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.equisde {
+    max-width: 200px;
+    border: solid;
+    border-radius: 100px;
+    transition: transform 0.3s; /* Add transition effect for transform */
+}
+
+/* Add hover effect for .equisde */
+.equisde:hover {
+    transform: scale(1.2); /* Scale up on hover */
+}

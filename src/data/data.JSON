@@ -1,0 +1,67 @@
+{
+    "courses": [
+      {
+        "title": "Full Stack Developer - Back end Development",
+        "certificate": "https://d2rf2c6bvm78n9.cloudfront.net/new-cert?id=89492ee894bbe90b4cf1bdb09152a3eb19c29d7dafdcc6f7ae9833ca7c4ad92a",
+        "description": "Graduated from Soy Henry! This course opened the doors to enter the world of programming. It has been my passion, and I'm longing for personal and professional growth in this career."
+      },
+      {
+        "title": "Full Stack Developer",
+        "certificate": null,
+        "description": "Student on Digital House. This course is under the Santiago Del Estero government Scholarship called METAS, which also opened a door for a regional environment programming, putting me alongside incredible teachers and partners."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Make my PC",
+        "description": "This is my final project in Henry, made alongside a wonderful group of students and friends. It is what made me specialize in backend.",
+        "backend": "The database is running on PostgreSQL, which is connected to a GraphQL and TypeScript server.",
+        "frontend": "The client of this project is made with a React and Apollo server environment.",
+        "features": [
+          "E-commerce platform",
+          "Search products",
+          "Display products in multiple carousel-type views",
+          "Multiple filters: by price, brand, and name",
+          "Login and register functions (paired with Auth0)",
+          "3rd party authentication with Google",
+          "Wishlists",
+          "Shopping cart",
+          "Handling payments with Mercado Pago",
+          "Dashboard for the Admin (CRUD operations for products and users)"
+        ],
+        "links": {
+          "client": "https://p-final-p-ccorp-front.vercel.app/",
+          "server": "https://back-mans.onrender.com/graphql"
+        }
+      },
+      {
+        "title": "PokeApp",
+        "description": "This is my PI from Henry, a full-stack project made by myself.",
+        "backend": "The server of this project is running on Express, MySQL, and Sequelize.",
+        "frontend": "The client for this project is running React-Redux and Vite.",
+        "features": [
+          "Single Page Application",
+          "Search through all pokemons",
+          "Filter pokemons and paginate them",
+          "Create new pokemons and new types of pokemon",
+          "Working alongside the PokeApi to display information"
+        ],
+        "link": "https://github.com/CSRuggeri/Pi-PokeApp-CSRuggeri",
+        "status": "Under development"
+      },
+      {
+        "title": "SportGO",
+        "description": "This is a group project that I'm working on under the Digital House teaching.",
+        "backend": "Using Express and Node.js.",
+        "frontend": "Using EJS and HTML.",
+        "features": [
+          "E-commerce platform",
+          "Create new products",
+          "Create and log in users",
+          "Search through the products",
+          "Paginate the products"
+        ],
+        "link": "https://github.com/CSRuggeri/grupo_2_SportGO"
+      }
+    ]
+  }

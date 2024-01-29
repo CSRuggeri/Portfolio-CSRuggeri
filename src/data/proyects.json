@@ -1,0 +1,26 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "name": "Make My PC",
+        "description": "This is my PF on henry, made alongside my dev partners PCcorp, this is an Ecommerce proyect deployed on Vercel and Render that holds a bulk of features like filtering, pagination, search, login, register, payments and more!. this proyects is made with TypeScript, GraphQL, JavaScript and React",
+        "url": "https://p-final-p-ccorp-front.vercel.app/",
+        "image": "/MMP.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "PokeAapp",
+        "description": "This is my solo Proyect form henry, it holds features like pagination, filters, search, api calls and MVC, it is made with the stack of Express, Sequelize, React-Redux and JavaScript",
+        "url": "https://github.com/CSRuggeri/Pi-PokeApp-CSRuggeri",
+        "image": "/PokeApp.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "SportGo",
+        "description": "This is a Grup proyect form Digital House, is made with a stack of Express, EJS and JavaScript",
+        "url": "https://github.com/CSRuggeri/grupo_2_SportGOs",
+        "image": "/SportGo.jpeg"
+      }
+      
+    ]
+  }

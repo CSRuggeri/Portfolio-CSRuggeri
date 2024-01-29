@@ -1,0 +1,59 @@
+
+.cardCont {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: floralwhite;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    transition: transform 0.3s; 
+  }
+  .cardCont:hover {
+    transform: scale(1.05); /* Scale up on hover */
+}
+  
+  .title {
+    font-size: 1.5rem;
+    margin-bottom: 8px;
+    color: #333;
+  }
+  
+  .description {
+    color: #666;
+  }
+  
+  a {
+    display: block;
+    margin-top: 12px;
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+}
+  
+  .image {
+    width: 100%;
+    height: auto;
+    margin-top: 12px;
+    border-radius: 4px;
+  }
+  .cardsxd {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Add transition effect for scaling on hover for each individual card */
+.cardsxd .cardCont {
+    transition: transform 0.3s;
+}
+
+/* Add hover effect for each individual card */
+.cardsxd .cardCont:hover {
+    transform: scale(1.1);
+}

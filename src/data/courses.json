@@ -1,0 +1,23 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Soy Henry!",
+        "instructor": "Henry Staff",
+        "description": "Full Stack Developer",
+        "duration": "26 weeks",
+       
+        "image": "/certificado.jpeg"
+      },
+      {
+        "id": 2,
+        "title": "Digital House",
+        "instructor": "Gabriel Dominguez, Pablo Troncoso",
+        "description": "Full Stack Developer",
+        "duration": "34 weeks",
+        
+        "image": "/SportGo.jpeg"
+      }
+   
+    ]
+  }

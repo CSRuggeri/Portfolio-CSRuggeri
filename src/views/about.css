@@ -1,0 +1,25 @@
+.courses {
+    display: flex;
+}
+
+.conect {
+    display: flex;
+}
+
+.CS {
+    display: flex;
+    align-items: center;
+    border: solid;
+    border-radius: 20px;
+    flex-wrap: wrap;
+    padding: 10px;
+    align-items: baseline;
+    background-color: darkslateblue;
+    transition: background-color 0.3s; /* Add transition effect for background-color */
+    
+}
+
+/* Add hover effect for .CS */
+.CS:hover {
+    background-color: #1e3151; /* Change the color on hover */
+}

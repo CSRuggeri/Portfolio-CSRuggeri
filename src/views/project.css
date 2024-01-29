@@ -1,0 +1,14 @@
+.cardsxd {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Add transition effect for scaling on hover for each individual card */
+.cardsxd > .cardCont {
+    transition: transform 0.3s;
+}
+
+/* Add hover effect for each individual card */
+.cardsxd > .cardCont:hover {
+    transform: scale(1.05);
+}
