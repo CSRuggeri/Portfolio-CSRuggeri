@@ -8,8 +8,6 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-.git
-.vercel
 dist
 dist-ssr
 *.local
