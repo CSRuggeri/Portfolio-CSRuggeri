@@ -7,7 +7,7 @@
         "description": "Full Stack Developer",
         "duration": "26 weeks",
        
-        "image": "../images/certificado.jpeg"
+        "image": "/certificado.jpeg"
       },
       {
         "id": 2,
@@ -16,7 +16,7 @@
         "description": "Full Stack Developer",
         "duration": "34 weeks",
         
-        "image": "../images/SportGo.jpeg"
+        "image": "/SportGo.jpeg"
       }
    
     ]
