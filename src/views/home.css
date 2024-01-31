@@ -11,12 +11,12 @@
     align-content: center;
     border: solid;
     color: cornsilk;
-    background-color: transparent;
+    background-color: #333;;
     transition: background-color 0.3s; /* Add transition effect for background-color */
 
 }
 
 /* Add hover effect for .intro */
 .intro:hover {
-    background-color: #333; /* Change the color on hover */
+    background-color: #690a0a81; /* Change the color on hover */
 }
