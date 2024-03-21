@@ -29,7 +29,7 @@ import ReactMarkdown from 'react-markdown';
     `;
   
     return (
-    <p>
+    <span>
     Welcome to my  Portfolio! 👋
     
     Hey, I'm Santiago Ruggeri,
@@ -66,7 +66,7 @@ import ReactMarkdown from 'react-markdown';
     of technology and leave an indelible mark on the digital landscape. 🌐
     
     🚀🌟🚀Let's connect, collaborate, and create something extraordinary! 🚀🌟🚀 
-    </p>)
+    </span>)
     
   };
 export default Intro
