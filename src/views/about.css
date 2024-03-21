@@ -14,12 +14,12 @@
     flex-wrap: wrap;
     padding: 10px;
     align-items: baseline;
-    background-color: darkslateblue;
+    background-color: rgb(113, 111, 124);
     transition: background-color 0.3s; /* Add transition effect for background-color */
     
 }
 
 /* Add hover effect for .CS */
 .CS:hover {
-    background-color: #1e3151; /* Change the color on hover */
+    background-color: #2e3541; /* Change the color on hover */
 }
