@@ -14,7 +14,7 @@ export const About = () => {
         <h2 className='CS'>Instagram: <a href="https://www.instagram.com/santiruu?igsh=MTdtcWt5cDhjbWhubA%3D%3D&utm_source=qr"> @santiruu</a></h2> 
        
      </div>
-     <h2  className='CS'> <a href="https://docs.google.com/document/d/1Bik56QbWPiMN1UFKwcA85ucaD3_oiEUE/edit?usp=drive_link&ouid=104736577335456997121&rtpof=true&sd=true">RESSUME/CURRICULUM</a> </h2>
+     <h2  className='CS'> <a href="https://docs.google.com/document/d/1Bik56QbWPiMN1UFKwcA85ucaD3_oiEUE/edit?usp=sharing&ouid=104736577335456997121&rtpof=true&sd=true">RESSUME/CURRICULUM</a> </h2>
      
          <div className='courses'>
             
