@@ -4,6 +4,8 @@
 
 .conect {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .CS {
@@ -14,7 +16,7 @@
     flex-wrap: wrap;
     padding: 10px;
     align-items: baseline;
-    background-color: rgb(113, 111, 124);
+    background-color: #f9f9f9;;
     transition: background-color 0.3s; /* Add transition effect for background-color */
     
 }

@@ -1,9 +1,10 @@
 .nav {
     display: flex;
     flex-direction: row-reverse;
-    justify-content: space-evenly;
     flex-wrap: wrap;
     margin-bottom: 40px;
+    align-content: center;
+    justify-content: center;
 }
 
 /* Add transition effect for font color on hover */
